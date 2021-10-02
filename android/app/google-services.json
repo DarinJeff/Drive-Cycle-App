@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902818561497",
+    "project_id": "drive-cycle-f2599",
+    "storage_bucket": "drive-cycle-f2599.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902818561497:android:3cbb1c06a444788611adc8",
+        "android_client_info": {
+          "package_name": "com.application.drive_cycle.drive_cycle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902818561497-rhh8ajrj0ke2qpablkfiqpnoea8fl0bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV11LFSnOnVkKs6O1SeItB-BJRotDyRU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902818561497-rhh8ajrj0ke2qpablkfiqpnoea8fl0bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
